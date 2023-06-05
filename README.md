@@ -8,6 +8,6 @@ The goal is to create a pipeline where you can enter an initial caption. The Sta
 A few important tips:
 * Make sure to **start with the first notebook** '01_text2image2text_pipeline.ipynb'!
 * You need quite **a lot of GPU power** to run the notebooks. So make sure you have an available GPU.
-* When using Google Colab (like I did), you might **consider to upgrade to Pro** so you can use an A100 GPU. Other Runtimes (including the free ones) should work as well, but I can not guarantee for anything. Also it might take an even longer time to run the notebooks. 
+* When using Google Colab (like I did), you might **consider to upgrade to Pro** so you can use an A100 GPU. Other Runtimes (including the free ones) should work as well, but I cannot guarantee for anything. Also it might take an even longer time to run the notebooks. 
 
 Now you are ready to dive in. Enjoy!
