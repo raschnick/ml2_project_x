@@ -6,7 +6,9 @@ This is a small project combining Natural Language Processing and Computer Visio
 ### Motivation
 You might have heared of the game GarticPhone (https://garticphone.com/). It's a digitalized, slightly adapted version of a kids game called "telephone game". 
 There is no winner or looser, but instead the entertainment comes from comparing the different sentences and images. Obscure situations and funny moments are guaranteed.
+
 My initial goal was to create a machine learning based version of this to generate some entertaining results. 
+
 Sadly, the results weren't exactly funny, because unlike kids (or adults) using paint, the StableDiffusion model is actually really good at generating images. So I had to reevaluate my approach and I decided that I want to find a way to compare the outputs with each other and maybe find a way to improve those results. Which brings me to my new goal.
 
 ### Project Goal
