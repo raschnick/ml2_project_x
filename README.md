@@ -17,7 +17,7 @@ When this is done, the next step is to evaluate how good this performs and what 
 
 ### Running the notebooks yourself
 A few important tips:
-* Make sure to **start with the first notebook** '01_text2image2text_pipeline.ipynb'! Then just follow the further steps detailled in the Notebooks.
+* Make sure to **start with the first notebook** '01_text2image2text_pipeline.ipynb'! Then just follow the further steps detailled in the notebooks.
 * It is recommended to use Google Colab to run the notebooks.
 * You need **a lot of GPU power** to run the notebooks. So make sure you have an available GPU.
 * When using Google Colab (like I did), you might **consider upgrading to Pro** so you can use an A100 GPU. Other Runtimes (including the free ones) work as well (as long as you have a connected GPU), but it will take an even longer time to run the notebooks. 
